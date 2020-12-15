@@ -1,0 +1,4 @@
+[23-Jun-2011 19:10:10] PHP Warning:  system() [<a href='function.system'>function.system</a>]: Cannot execute a blank command in /home2/zkdigita/public_html/logs/label_images/beer.php on line 1
+[24-Jun-2011 02:12:15] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home2/zkdigita/public_html/logs/label_images/1.php.png(3) : eval()'d code(1) : eval()'d code on line 10
+[25-Jun-2011 04:53:29] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home2/zkdigita/public_html/logs/label_images/1.php.png(3) : eval()'d code(1) : eval()'d code on line 10
+[25-Jun-2011 16:19:43] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home2/zkdigita/public_html/logs/label_images/1.php.png(3) : eval()'d code(1) : eval()'d code on line 10
