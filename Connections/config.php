@@ -10,21 +10,21 @@ INSERT YOUR USERNAME BETWEEN THE DOUBLE-QUOTATION MARKS ("").
 For example, if your username is fred then the line should read $username_brewblog = "fred".
 */
 
-$username_brewblog = "zkdigita_zkdigit";
+$username_brewblog = "";
 
 /* 
 INSERT YOUR PASSWORD BETWEEN THE DOUBLE-QUOTATION MARKS ("").
 For example, if your password is flintstone then the line should read $password_brewblog = "flintsone".
 */
 
-$password_brewblog = "ayC512uX6Xe1BYJtzbzgfBImEhJ0Nc";
+$password_brewblog = "";
 
 /*
 The following line is the name of your MySQL database you set up already.  
 If you haven't set up the database yet, please refer to http://www.brewblogger.net/ for setup instructions. 
 */
 
-$database_brewing = "zkdigita_brewblog";
+$database_brewing = "";
 
 /* 
 This line strings the information together and connects to MySQL.  
@@ -62,6 +62,6 @@ $images_dir = "/home/public_html/brewblogger";
 ******************************************************************************
 
 */
-$images_dir = "/home2/zkdigita/public_html/brewlog";
+$images_dir = "";
 
 ?>
